@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "GrpcServiceMetanitLearn": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5291;https://localhost:7128",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
